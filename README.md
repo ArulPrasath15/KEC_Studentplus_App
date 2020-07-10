@@ -1,3 +1,4 @@
 ﻿# KEC_Studentplus_App
- Built by Flutter
+ A webview App 
+ Built by Flutter.
  
